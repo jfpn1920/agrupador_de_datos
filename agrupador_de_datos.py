@@ -5,6 +5,9 @@ tipos = []
 valores = []
 fechas = []
 descripciones = []
+#---------------------------------------#
+#--|menu_principal_agrupador_de_datos|--#
+#---------------------------------------#
 while True:
     print("menu principal agrupador de datos")
     print("1) crear dato")
